@@ -1,0 +1,7 @@
+E:\HOCKY2-NAM3\C#\OOP\OOP\bin\Debug\OOP.exe.config
+E:\HOCKY2-NAM3\C#\OOP\OOP\bin\Debug\OOP.exe
+E:\HOCKY2-NAM3\C#\OOP\OOP\bin\Debug\OOP.pdb
+E:\HOCKY2-NAM3\C#\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+E:\HOCKY2-NAM3\C#\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+E:\HOCKY2-NAM3\C#\OOP\OOP\obj\Debug\OOP.exe
+E:\HOCKY2-NAM3\C#\OOP\OOP\obj\Debug\OOP.pdb
