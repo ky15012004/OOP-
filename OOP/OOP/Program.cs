@@ -10,6 +10,7 @@ namespace OOP
     {
         static void Main(string[] args)
         {
+            //update lần 3
             Console.WriteLine("Nguyen Phuoc Ky - 22115053122224");
             Employee employee1 = new PartTimeEmployee(45000, "Ky", 7);
             Console.WriteLine($"Name: {employee1.GetName()}");
